@@ -1,0 +1,1 @@
+changeWindow.exe allActive
